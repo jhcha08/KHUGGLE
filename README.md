@@ -1,5 +1,4 @@
 # KHUGGLE
-AI competition in KHU (Super-Resolution task)
 
 ![image](https://user-images.githubusercontent.com/55647934/207220070-7ffca3c0-cd80-47c8-9cbc-c4679bb4cf99.png)
 
