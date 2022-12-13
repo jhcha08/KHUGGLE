@@ -11,5 +11,4 @@ AI competition in KHU (Super-Resolution task)
 - KHUGGLE_colab : colab 환경에서 구동 가능하도록 만든, ESPCN 기반의 SR baseline 코드입니다.
 
 ![image](https://user-images.githubusercontent.com/55647934/207214311-ed219ec6-cdd0-4d30-bb7e-62bb61d94296.png)
-![image](https://user-images.githubusercontent.com/55647934/207220199-f3ba59d1-ade9-4abb-9ad8-13057fe83748.png)
-![image](https://user-images.githubusercontent.com/55647934/207214257-66c184cb-5b59-4caf-8933-eab4a94e938c.png)
+![image](https://user-images.githubusercontent.com/55647934/207220239-9a0c781f-c820-44ad-8f2c-8355ca223f94.png)
